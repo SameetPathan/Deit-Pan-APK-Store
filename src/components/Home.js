@@ -12,14 +12,14 @@ function Home() {
         <span className='text-white' style={{fontSize:"20px"}}>AI Diet Plan APK</span>  
         </div>
         <div class="card-body">
-          <h5 class="card-title">Download You Android .apk file here and install <span><div class="blink">Download Available Soon</div>
+          <h5 class="card-title">Download You Android .apk file here and install <span><div class="blink">Download Available</div>
 </span></h5>
-         <a href="https://drive.google.com/uc?export=download&id="  class="btn btn-primary">Download</a>
+         <a href="https://drive.google.com/uc?export=download&id=1oKbegtEI4oavbJq8u4Y8nwIfx8BWs778"  class="btn btn-primary">Download</a>
    
 
         </div>
         <div class="card-footer text-muted">
-         Updated on 01/05/2023        </div>
+         Updated on 11/05/2023        </div>
       </div>
       </div>
 
